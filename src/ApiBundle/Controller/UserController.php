@@ -10,6 +10,7 @@ use FOS\RestBundle\View\View;
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
 
+//The management of a user
 class UserController extends FOSRestController
 {
   /**
